@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage 3</title>
+  <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>  </head>
+    <body>
+<h1>Guest's profile</h1>
+<h2>Hello, Charlotte francis, age 36!</h2>
+<p>Charlotteislearningpython123</p>
+<h2>About guest</h2>
+<p>This is a cool bio.</p>
+<button>Like</button>
+<p>Notifications: 4</p>
+
+    </body>
+</html>
